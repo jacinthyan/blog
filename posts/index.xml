@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog</title>
-    <link>https://jacinthyan.github.io/blog/</link>
-    <description>Recent content on Blog</description>
+    <title>Posts on Blog</title>
+    <link>https://jacinthyan.github.io/blog/posts/</link>
+    <description>Recent content in Posts on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Jacinth Yan</copyright>
-    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jacinthyan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jacinthyan.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Heart Will Go On</title>
       <link>https://jacinthyan.github.io/blog/posts/myheartwillgoon/</link>
